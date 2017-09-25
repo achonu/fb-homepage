@@ -1,0 +1,20 @@
+#footer-box{
+	overflow:auto;
+	clear:both;
+}
+
+footer li {
+	padding-right:10px; 
+}
+
+.languages li {
+	display:inline-block;
+}
+
+li .links{
+	padding: 20px;
+}
+
+#copyright {
+	margin-top:40px;
+}
